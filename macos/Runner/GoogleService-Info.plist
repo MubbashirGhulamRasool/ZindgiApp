@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBfrPp2NO-90EttiOpg11ifqyny0NWSxYc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>693007379589</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zindgibloodapp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>zingdibloodappdb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zingdibloodappdb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:693007379589:ios:502ada9ae576a2429c8dec</string>
+</dict>
+</plist>
